@@ -1,2 +1,2 @@
-# skyscrapers
-This is a puzzle game with skyscrapers
+### skyscrapers
+## This is a puzzle game with skyscrapers
