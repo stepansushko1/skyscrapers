@@ -1,3 +1,4 @@
+""" https://github.com/stepansushko1/skyscrapers """
 def read_input(path: str):
     """
     Read game board file from path.
